@@ -1,0 +1,26 @@
+{
+  "name": "Caroline Newman",
+  "age": 59,
+  "address": {
+    "street": "Sacik Way",
+    "city": "Wazboot",
+    "state": "PA",
+    "zip": "55417"
+  },
+  "contact": {
+    "phone": "(470) 572-5068",
+    "servicePhone": "800657779"
+  },
+  "birthday": "2004-02-08T16:53:47.820Z",
+  "ip": "90.29.157.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Niskit inukublu eci fifhe ne ibhujwa mo kiffarol ehbuljo po il pek. Rak kefib az wutefi vurdo zacrade pihruk ke ra purko nomruofu pour masipeb fogoz efuora vigondo penju. Lioho hawej koelo or senaselis cafdun jifalag bugaglo is inalzi nomtih liltinsov rumtov wosnifa eh din daketuko. Gu cefpo ta pi diskooni hu gabhomguw redek sumezi viobelu hiwfiwij fibum susepe.",
+    "bio": "Tan ipuub pit pav mabge akrunwu molufdiz ape maf ji olaloj vuz ub wuducto buji le vasze buj. Wo sihcin vahruzmi izcetez ci ujaleek ekgu va wufbiw huprec wekilci hes begi jaleene. Vo liwogij epu dihja wibjimu fiwe sijjegtaw ja pesevhub cawmisez ras zad ci heajiho izala seepaes debop."
+  },
+  "apiKey": "4339b65e36f05afc75bd6e6e0082350c523f6301dcd61ac3fbc9168db827d864",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
