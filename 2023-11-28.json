@@ -1,0 +1,26 @@
+{
+  "name": "Abbie Jordan",
+  "age": 46,
+  "address": {
+    "street": "Vave Heights",
+    "city": "Motdiwez",
+    "state": "AL",
+    "zip": "29911"
+  },
+  "contact": {
+    "phone": "(509) 723-6254",
+    "servicePhone": "800111118"
+  },
+  "birthday": "1984-05-21T11:21:53.757Z",
+  "ip": "184.81.129.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Ma sor cuslaho piwuvopiz wuk nudnob ritde jo regotahoz nokik gakupfas rad kaip vil em. Wot wahvas la rohwa reakodop vamdiwo no vi moruon famuti cekido hocbedren gudupjo za gefa bo emalek. Ol unduhos sufejon izosa mirokudi gemusasac feroh ro getasmo no fun rozi enebus ta peviz jewcu vube.",
+    "bio": "Co uwero rutgijuc ujmerig fuh lusjeapu usizezud racizzof rulnomivo laibuca mah sefat cejlamelo wova zagetamo li nujuzmi. Di si relu hupdorur isiwofa wontoc uce he uheruzgo uk vanonmi piptiw vi. Kifsuhfa sufuen ruozuwa na vaw daplate tofadav wuzotmog iwe kozpud ofiinrur bedseb honnoguw avhan. Dogigum hi ubume me areudew puuvlod emogitujo lu ma rovu iklehi domjivut juwikwu cakpa."
+  },
+  "apiKey": "b8ca940c58ab5d55a93ae9e1d91541bb08341143b22a44fc5ca9d24ff989d119",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
