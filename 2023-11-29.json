@@ -1,0 +1,26 @@
+{
+  "name": "Mabel Jones",
+  "age": 27,
+  "address": {
+    "street": "Viti Glen",
+    "city": "Lojwibim",
+    "state": "SC",
+    "zip": "33581"
+  },
+  "contact": {
+    "phone": "(244) 907-8821",
+    "servicePhone": "800879928"
+  },
+  "birthday": "2004-12-29T17:06:08.736Z",
+  "ip": "239.44.199.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Ramel nad gil ke hubmibne fahsa ruwwaf wuc juw joosa laohule jod gigpor li. Horkijli etsil ladaw matoko gihoh dunre ta ifpunof rentu ekosar kiwjalu apoeki lunon coog nohi uwo. Sasid af ugoeju retha fevta ena vuubonuj cohohbon nol vo ultaep oroeh bubekow pe vuavoup jejag wa.",
+    "bio": "Jojohan giwul si wa ne mu ir mebuab inbofa lej docofnep puvabih ciidaca ruk fiduzon ni okcuhva uwgi. Raf ganbi ar fit jilijjam nelibo biveguruz sebsen kiah pollancuj guc uwi wemepoeno ojzekma cadul. Uc berpev cupja zenic leoj ubiku wav diuv duzzilu lal gir jenucgu ihe benuli cijraot posonhe fusvop. Udi awre favo nies mih welte gi ovizaz guipa di hane dekko jibod vimtor udize dok aravufah le."
+  },
+  "apiKey": "1ae759351e73c0360dcee197ee79b68feae18bc8fd15e60e8de3dddf456171d3",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
