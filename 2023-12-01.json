@@ -1,0 +1,26 @@
+{
+  "name": "Steve Thompson",
+  "age": 29,
+  "address": {
+    "street": "Abiga Glen",
+    "city": "Sopusmu",
+    "state": "CO",
+    "zip": "53289"
+  },
+  "contact": {
+    "phone": "(313) 643-2518",
+    "servicePhone": "800989367"
+  },
+  "birthday": "2003-07-07T18:50:34.426Z",
+  "ip": "219.152.109.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Oje fi fut muvosje roucvuw reava semurcos ge fi hif ohujefe wijuk se du toweidu. Soguw ewcu dilooc vuotake itmu ci lu edabepi afoser vojwegu ar rawwe gopgigwan sa rioza vazku ehu rogrum. Wamfehur hanok ercu am jedmuj son raszukca talruz ce colujid wewfowef baherbif veonowa evvur gi bojtovle. Luh desic retaflod budo ra ki aze febheaju opsasuva geodi sal jok nana ocla aljah buhes zofno gahac. Ivonihoz fozseh pocafa pomfofoc vana ham wu ujef sevi pegmokbi unoibdi elitlef hedkizkud caladi kigehub.",
+    "bio": "Bajo ku wugpapo junatava sanjuhsi tuf moegi fetiw dureb ewuado ulesig gemu vo nejikvuh kaepe fur ve so. Oweusazek ti raw kofodar vuhwuh ranik bipwiw is opi kovcejhuz socpetaw viut. Rib nub ege pujal dir zatituev elazelug za log vupa dugfu cufo putgomi mejena ge. Savemew siuvvar cispe fopmib zoeboma gistoc kow ul uwvon pap iregube ken vordahu bujevna ce ji kafwo do. Falsegu wuszalgan ejsul hitkepot fah wipcicva tatbiwguc jepbalu dazrawa wukovna zonhe wasa ruvasioru."
+  },
+  "apiKey": "cb6ee5751e2e8b5af32b1087432f11cdf024a9f9a9367606991ef9264c6d7556",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
