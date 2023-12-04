@@ -1,0 +1,26 @@
+{
+  "name": "Francisco Ballard",
+  "age": 41,
+  "address": {
+    "street": "Rinvo Key",
+    "city": "Locsiave",
+    "state": "VA",
+    "zip": "25931"
+  },
+  "contact": {
+    "phone": "(481) 322-8381",
+    "servicePhone": "800442529"
+  },
+  "birthday": "1965-04-01T13:36:57.814Z",
+  "ip": "30.82.130.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Je ig bar filusuab zuv wedwiko gu bin mobco cuzwivaje hignajit ceope uhnus ruz zi enli vatawow tujos. Obotuffel ugilufsiw popot dov fiwjakmi udiza ovakicho tot ciched bolgipe kurwokfug acozilok nipafu wowanauji apana tikoef pus anmug. Eg gu tej tem uzahacak daucezoh paguvaj leghog sehbiw el bap ze te am. Moh uvoenwug ezedame zic hugami zuzud he mi vakoselis tojnakok poalimo roisze hicjorip dobbe firfow lu urfiiri.",
+    "bio": "Wufapa hidora esati ona le felipi mep jucbaifo za hok aki la ifolimlu. Jedurva ade minbezov nu tawok nom lozri ra okepe niphis zozteugu tun. Wopuj hofdab gi kaffilpi wuwiza ifi mub cud ta fopar rojsafka sir."
+  },
+  "apiKey": "af8c53fd61932d98885b403ad34a961d25f2b0a494c27e0d383cdda290ed5d8b",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
