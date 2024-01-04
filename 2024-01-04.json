@@ -1,0 +1,26 @@
+{
+  "name": "Jesse Moreno",
+  "age": 54,
+  "address": {
+    "street": "Mobub Pike",
+    "city": "Cigmerav",
+    "state": "TN",
+    "zip": "56131"
+  },
+  "contact": {
+    "phone": "(678) 756-4860",
+    "servicePhone": "800428299"
+  },
+  "birthday": "1968-09-04T12:00:47.957Z",
+  "ip": "204.27.123.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Kor pizoc mij relvis jossejos mi pipahe bej ragzir bewhiz laribavuv bafi zegovoj wan lo etihajov bacrab raaklu. Wo zatu hu naksezuse hombot wacpi faluj mufzerre keb lilemaose buh mepdet magirig pigkucano. Gimafve ewi zov hu uju toj fu zus voduzup gurovu ovebe ojjibjaf.",
+    "bio": "Zesarki fovuzas vobim wazame zizne ovufugi zuaje ewogfal savajpa zuw urovuhpi himu odfud hapsafvan co kusowi. Demfa ehedadno vo cu wewivot awujemi ge ful aruci log goat ov. Etu jad kehhabgok umiuzne ibozju ekiwup lukasoze nabur ziomu ca icobew gaof ducos calwu lewe. Gu vikak me gihefve hugoku mutdaptaf ugi ev on mi sakuvzir guj od ji tis fuhfum."
+  },
+  "apiKey": "f3f93de3cfdd9b5be6d6c1eecb94d1488f47f7c25aaf397281e112211037af10",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
