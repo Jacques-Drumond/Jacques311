@@ -1,0 +1,26 @@
+{
+  "name": "Susan Mathis",
+  "age": 54,
+  "address": {
+    "street": "Sefu Terrace",
+    "city": "Uwucesa",
+    "state": "MI",
+    "zip": "94103"
+  },
+  "contact": {
+    "phone": "(443) 472-1663",
+    "servicePhone": "800714892"
+  },
+  "birthday": "1984-07-14T16:59:21.771Z",
+  "ip": "194.194.251.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Wotap kov kedu pebbok dowgir pek azeanpet mufwu be cabif godafufa hiegok ciwani jenuhzeg eh. Ket son odewuwuk cihivre awi ce majajoc bilgar anisizaw cargunzeg tu budido zikra zen. Umsebhop mide escu gulaaku zupalcat hivjofat aszuv mefhir evudu jockesi sidho hauco faruhvev golpig.",
+    "bio": "Jaj baz ojke gu buda urbi wafaru cocogsub uguararu kas guwapko midorwo nutbobice. Rivug begeb zojabpel pi wipi ipareotu hebacze huwne in taj lupvonto rah vut. Iwwer nu ujiigu nolfuf taroszun oj maflofti cen takucmu bakiiz apapeuce vu."
+  },
+  "apiKey": "45f9da0ebab7281d006148dd70ac12779934ad4fce43c26ae49a9e67f4c7eb6d",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
