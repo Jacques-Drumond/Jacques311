@@ -1,0 +1,26 @@
+{
+  "name": "Derrick Jackson",
+  "age": 23,
+  "address": {
+    "street": "Pidhe River",
+    "city": "Fiflencej",
+    "state": "IL",
+    "zip": "61674"
+  },
+  "contact": {
+    "phone": "(667) 984-6878",
+    "servicePhone": "800129838"
+  },
+  "birthday": "2003-08-19T04:38:08.888Z",
+  "ip": "141.2.207.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Caziemo su vizoda afowez lak puh wos uzeme boga saj ja hit irbirli ovmu vav le mi ser. Pu ru omehu lab muw afo juto izovocce zavimper gad ne egwop ledsunhif bilup hekjuv nobev tetandoz. Kir recjif ugemihfe icobo kiripka nuli ba kopeg kolco tervaki foslide asjaoki. Tugnupwid sudkegmem bavopu uzotezbi tuzzu eribohos do suhvinveg latagmil ijesa sicukoh liuh ruozewuw.",
+    "bio": "Tovici cutullo feip delad rilaze ko be ide nizerze denusul bofu ekiw podizo rumoppi cikam. Nehgo zuvaf ev iv riarehu dojet evare vu cael cubi feguwmad dodtulic aruro onazugbi sujdinon gen. Cel sedehuboc an fib dum kipi jotsa molingo dauje laut fud amuruzu ke gonofu waztihi kettuot. Baucaaju ser lehnuiv big ewzaruwi ku semesuh gum eno sepbi tojmawsiv wohvot unofod gugmi."
+  },
+  "apiKey": "06cc4f14bd40843138581cbb7847c365d8f5c6efa97d3a464e1457bfa790c084",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
