@@ -1,0 +1,26 @@
+{
+  "name": "Grace Gonzales",
+  "age": 26,
+  "address": {
+    "street": "Ruvmin Point",
+    "city": "Olpejoh",
+    "state": "NH",
+    "zip": "23897"
+  },
+  "contact": {
+    "phone": "(228) 348-9610",
+    "servicePhone": "800682642"
+  },
+  "birthday": "1977-05-14T04:03:34.348Z",
+  "ip": "35.235.92.55",
+  "foo": "bar",
+  "profile": {
+    "about": "No zo fe az dif silu sefhariz kajako faf jaj netu ozideniv ze aziejowu. Todbolhum gace upujog kab beg ubu rijvujko lacja lew ruguvu uflunu imewenuv. Ipufuti uh kaf welta ijove fo asurap ja irlomo detfi se puve.",
+    "bio": "Tez ahedipu duwi wum esravob mit inril secamlu heg jigakecu daj zu mamvo jotbod dikoz uji. Ovufun onilo ize izuce buj zipab hizhugej covlij ka verifbah pim gah dirfim jepuda saazu movmej. Tip ti vumo vuraw ajioje happo mo mi vocew fopu owaubavus zape nikecen toer cuckul riuzpoc ijubej. Si pod navroke od bup gesosaj ecvuhwu rubpa pamledaf zahartu vodo fe kan wolpuhi ke dinki vun eposez."
+  },
+  "apiKey": "bb8d196cf9d26212744731b5479e452ec6a6e9be43c7a66f2b6836d42b528db9",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
