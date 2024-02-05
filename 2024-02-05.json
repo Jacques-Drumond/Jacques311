@@ -1,0 +1,26 @@
+{
+  "name": "Maurice Boyd",
+  "age": 30,
+  "address": {
+    "street": "Luto Pass",
+    "city": "Erbekki",
+    "state": "NC",
+    "zip": "61780"
+  },
+  "contact": {
+    "phone": "(559) 745-8390",
+    "servicePhone": "800576597"
+  },
+  "birthday": "1989-01-02T04:49:18.316Z",
+  "ip": "211.53.157.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Uw unad vu jipog iziizdab gucculud ro ohovi lafig okedahow zofoz beh. Atefozho savud fi wet saijawul su pas cefgeb hu uhagan nubmaka dejakuc. Abitiji potfuv wahdo go zi ce jik nobe lecfehen di owu ogupu wetnav. Taliha ada uceifieg wojzap iwdu hiveepe rofasin huv johtag fofuhu kuwgifot joasuumi id kudhon gib.",
+    "bio": "Lu bozviflap iwvi dukas ra zub on raguta lefimfe siak bon voc anvumuz. Wuta afmu kec ujezi cugu musete soz tuliuvu madlogta lof mobmawgi ho. Redfeihe putzi pepgazefo jusoh lu geohte epe omo lubup inalujceh ve juwomluj sijhes lukbontah."
+  },
+  "apiKey": "2dcb03052b5cf857d222594e3ad0bc14c8a341ec7ee85ea5d9c89b6adae7a7bd",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
