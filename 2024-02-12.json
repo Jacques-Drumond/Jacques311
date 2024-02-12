@@ -1,0 +1,26 @@
+{
+  "name": "Eva Perez",
+  "age": 24,
+  "address": {
+    "street": "Sekra Mill",
+    "city": "Riwowisun",
+    "state": "VA",
+    "zip": "41097"
+  },
+  "contact": {
+    "phone": "(741) 891-5957",
+    "servicePhone": "800864497"
+  },
+  "birthday": "1998-09-15T22:27:35.775Z",
+  "ip": "233.132.212.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Pub alhemit romka gi wo ij gatjoz zibkap ufpumel sowaik co abezioz wuwec ko vegjo coruz bimfeige iti. Pup uzgega berwope moz itu nuhovra tuj vemu abpiksa zohij oc iwfov cud waulzev. Maj uwuvepge dadam ezeulo nefe ducser wegkofwo soda ovukahi adza etju pu sajak zuhzat fup li wum.",
+    "bio": "Lubiv tug jobara pajam vo ji cashaka ub heslew adegi ewejud ufacer. Ta juj wutirrab pesu pedmu tozor ranazi pi zoturdav kazi vesajraz zi mo hor ecze nolig noaza. Lece hamdejru ec ro jip rigoctof uvnowud tokuv calbepwap beromok erogimec si huren ga israh fozaji medgo."
+  },
+  "apiKey": "84f89e9886561e39c639bf2e2d33dc48c4b521e51f3c1c8a6e027766fc2dd358",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
