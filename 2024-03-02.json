@@ -1,0 +1,26 @@
+{
+  "name": "Angel Ballard",
+  "age": 46,
+  "address": {
+    "street": "Kukcu Way",
+    "city": "Rasijeb",
+    "state": "NC",
+    "zip": "77426"
+  },
+  "contact": {
+    "phone": "(533) 622-8504",
+    "servicePhone": "800873764"
+  },
+  "birthday": "1990-05-02T09:40:49.201Z",
+  "ip": "45.160.162.204",
+  "foo": "bar",
+  "profile": {
+    "about": "Melte loz ho ferap jowu kesabeb bela rupeaw baljem hof suv oru berpa. Gozjamcut zuen ekcezi lofmo nupen efegode gitgeop tizzab cog suh guteczer odugo haki ca. Bece cimoj vefvod ewoaw awi res ipezu on soruco imwewpuh fanacdel tikpezal ezjenpe hegcizif onluvlat.",
+    "bio": "Mehahuz uznukip pa vohotrir cu vuri got ti he cabefe efaruhdof cagebil su furpavsup bih poful su uv. La takune kucfed po bolu giffor velo siuhmil nugabwud mat giken gi. Puujebav agnap ri ha odiku ew ji remuhoju joje hi kihu jekceaz ag. Zitutmo tulo zolu oginetavi civmiz fo fuz av vagazij gokic vugiznu fek fe kahdipha."
+  },
+  "apiKey": "4e6e54bb5f218870fcd564158f53c66c8227b098981ae91a7aa7c5ba21446ea3",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
