@@ -1,0 +1,26 @@
+{
+  "name": "Harry Watson",
+  "age": 63,
+  "address": {
+    "street": "Tapof Ridge",
+    "city": "Iwazisec",
+    "state": "NC",
+    "zip": "58645"
+  },
+  "contact": {
+    "phone": "(711) 763-2055",
+    "servicePhone": "800467764"
+  },
+  "birthday": "1977-12-18T12:36:26.457Z",
+  "ip": "27.197.219.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Go can diwdutag misog refimfid ogijo zi ecajuvu pa cedcibhor nevram miw ruvwijeti degewu kihheczil vi irnev. Husuj fi enbi eh fuslu ced wutedsaj kutkarat bojur wa din te guke nadmeg imfivbu hipur. Bo esazid jozew vamikemi du ga rid jaz gu fag zer ajetigrod nomov voelwa ihi mopisda de.",
+    "bio": "Nin jodevvo nanijeeza sob heg ceje ovemi jivnip teba id wib gohuwkal lowem igwur upaba vozfizput. Obusi woffed tir ed con tiitnek hi mimil mu ozuobisu zaza rujaciini es zice befcob ofco. Mumpok sowetgab koh lo umo maguca cuwumce aci ge tosdu tihur zuzi udo houfkuc pag zoworow."
+  },
+  "apiKey": "af876b842fdf905baa808e885ba94e3b75f9ead2d80f6e0149ee80f4525c3ffa",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
