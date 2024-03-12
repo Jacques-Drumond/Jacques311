@@ -1,0 +1,26 @@
+{
+  "name": "Michael Strickland",
+  "age": 40,
+  "address": {
+    "street": "Gupic Junction",
+    "city": "Posaposem",
+    "state": "CO",
+    "zip": "06375"
+  },
+  "contact": {
+    "phone": "(411) 884-3091",
+    "servicePhone": "800864436"
+  },
+  "birthday": "1990-02-24T04:12:30.651Z",
+  "ip": "163.100.12.165",
+  "foo": "bar",
+  "profile": {
+    "about": "Vige bepma uh govmula ehibev gep utfurof boh recot ful fo juwzo da. Sorfuwi lis zipefu livi lesuca bificase zo begtanip bobasoc duhli ilata gi ruw onka. Hato ri ugi tu rob atohauv vopifsaf voni kur nebamuv abitto isatos. Raribho va fuzuz cudceige ta gef dugcib fop wuknos foeloewa vunukab nokta liwniwon lavmirnu jif kizgoceji. Zinavno zolib basole itbuhuk ezuvahuv jeow difvolme jowa cahsiwov izego famubzi ir ufevojep.",
+    "bio": "Opucav ce fegcov gim meaf cu omuja mak isi gil alatonre waov. Naumuon an avpub coh wagim motij we leipaili anurtub co eluciza vi maep nasi la. Pomwiwo ruhon tep kuloco owipuw ceorago fa teso fawa tegu fu linoci."
+  },
+  "apiKey": "475f218ad270840c4e337d75dcc97ef49d9d383f12993fdcb9f78bf2acc88543",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
