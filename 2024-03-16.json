@@ -1,0 +1,26 @@
+{
+  "name": "Amy Ingram",
+  "age": 34,
+  "address": {
+    "street": "Juur Glen",
+    "city": "Dilusdi",
+    "state": "CA",
+    "zip": "19866"
+  },
+  "contact": {
+    "phone": "(710) 816-1309",
+    "servicePhone": "800324471"
+  },
+  "birthday": "2000-06-11T08:07:38.836Z",
+  "ip": "197.16.72.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Julifade rewonzi pe kubzi gan ep cuv eja jubaw joraco itzut so wipo okmu muhtupe vowhagfo fazpunaf. Wola gojfu buthuz gomawon zuh fari pon ocjapok vos juwtuv zihepe vuhir wekaf et nohiger. Tir lu seik jem dujervim sukmad mak giaz firof li zahespur domihi.",
+    "bio": "Uhtu var pi deviw kiwfih ke tampan dul baik lunuceg nehga tese nunwojav micaba jid. Tebze kikciwvuv do ugvi rier muzir now jogohow mabmip da omidop vidde tobumje weagud fu. Vuvmus livugumig mus ume pekav fe didmi ogo hemuh ruhaaci uv mobam pumguz."
+  },
+  "apiKey": "5a83d0464a6ef31c41b3406ee642ee636678c90536aeda900d6a9132b8337677",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
