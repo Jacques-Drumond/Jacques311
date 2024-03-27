@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Estrada",
+  "age": 42,
+  "address": {
+    "street": "Bipner View",
+    "city": "Ekriufo",
+    "state": "WY",
+    "zip": "22071"
+  },
+  "contact": {
+    "phone": "(972) 497-2917",
+    "servicePhone": "800939972"
+  },
+  "birthday": "1992-10-15T11:10:34.519Z",
+  "ip": "76.199.144.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Hef tali upikimwu gah lugakwe popeepe dafa isifa dod mup pepirna ab cavcuepu waz lakhuvi. Ruzam bepcek bi eca abi fahwa gezif jutiz vulawet ugu apewsu nire. Mud koniliji wenvehfo okbovdo op mozeruk tez bake hivho apajizte fu gefu hunob gur uliji rospeg. Kasor suw celi bi gazpabit cewiz koom lodurcu egte be lup sig iwocuwgan. Paspiwkuf nim datatga huecjid bon puwetane melhakkij lo jan dazum bucadep ocezem hig hipzoro bi.",
+    "bio": "Juic ruidapo mugenov ku amuzho goj amo jum bam fazat difer jorgul mogudnok ni adfuci rowolcar gano buoncu. Awcor ozumicruf wipi ji dipure bidnad cudebes gij potok dodifep kuhoj tulal ten fusa ca to juklov igepli. Aka vav bedaove ogiura hamdepoho tublavze wude veisi tabaw ibore ihdafu baz icokor doit kamfauf. Zem al ikejver nupikro sinbihhu wij zo woolwe ruga adgifdo bozozi biop da. Fujdes meid odpiwse im cili uwgowap lec hol wufwa kep muh giujadi honib ta coreha."
+  },
+  "apiKey": "d01225a1b5b7d93957829e7d7119bef21d88fd24a1b358ee1e77fb2b5e56f0ad",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
