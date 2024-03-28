@@ -1,0 +1,26 @@
+{
+  "name": "Austin Price",
+  "age": 52,
+  "address": {
+    "street": "Diar Glen",
+    "city": "Tikisgu",
+    "state": "MD",
+    "zip": "56017"
+  },
+  "contact": {
+    "phone": "(905) 677-9027",
+    "servicePhone": "800254763"
+  },
+  "birthday": "1984-12-11T17:35:05.546Z",
+  "ip": "3.190.226.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Nueneko mehpees jizufu ec nodkuso vih sezjep tedwuspom tam vawub iv bi ane. Ho jeedaho ohoetove dukmoop mo habtob subuli selavtes wi piv bi ip ti haemu uj. Jewzusac sejanvo se doramanuw hiz ho lu ziwfowvi voghogre tesoktu rujinuazu rigmiji faspo neswucez kezmuzov.",
+    "bio": "Litbinvab muluci se wutug ceza fa vehi fudah vuf cu zazjizo nenu cavtesu niduke. Kuomohar ugokalvic vu luozod irorirev ikehawes iwerit ibime ihce leegelal jufsod omteszo uhec awehu meroudu ol jekohok. Di opi futihsu osbawe kabki zezmo lu def bujawi wa agheg buwuwko zezvalcu zo giijogin of miape."
+  },
+  "apiKey": "7233e5265472c140ae6589b037b9834958bb3e91ca53ddf371ded1cdb6c33a9e",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
